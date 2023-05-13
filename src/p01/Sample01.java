@@ -3,7 +3,7 @@ package p01;
 public class Sample01 {
 
 	public static void main(String[] args) {
-		System.out.println("demo2023");
+		System.out.println("demo2023テスト");
 	}
 
 }
